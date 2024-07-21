@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #EEE8D5;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3c392c;
+    height:100px;
+    color: white;
+}
+.marks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    color: white;
+}
+input{
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+}
+button{
+    margin-left: 15px;
+    height: 40px;
+    width: 60px;
+    background-color: white;
+}
+.label1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 40px;
+    
+}
+#id{
+    background-color: white;
+}
+input{
+    background-color: white;
+}
